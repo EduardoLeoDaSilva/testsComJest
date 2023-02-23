@@ -4,7 +4,7 @@
 
 Um simples projeto feito com o intuito de obter o conhecimento sobre as tecnologias JEST e prisma. Projeto foi feito utilizando javascript, utilizando o ORM prisma e o framework de testes jest.
 
-A simple project made with the purpose of getting the knowledge of how to work with JEST and Prisma. The project war developed using javascript, PRISMA ORM and Jest framework.
+A simple project made with the purpose of getting the knowledge of how to work with JEST and Prisma. The project was developed using javascript, PRISMA ORM and Jest framework.
 
 ## Stack utilizada
 ## Stack used
